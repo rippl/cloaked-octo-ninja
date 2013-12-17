@@ -1,0 +1,83 @@
+{
+    "team" : [
+              {
+              "name":"Lamps Department",
+              "title": "",
+              "location": "",
+              "about": "Table lamps let you fine-tune the atmosphere of a room in more ways than one. They give you additional light where you need it while also adding a bit of personality. Ours are available in a wide selection of styles to add a little extra colour, texture and light to your home.",
+              "image":"ikealampsdep_row.png",
+              "web": "http://www.ikea.com/lamps",
+              "twitter": "https://twitter.com/zombietreats",
+              },
+              {
+              "name":"FORSÅ",
+              "title": "Bedside Lamp",
+              "location": "",
+              "about": "Height: 38 cm, Base diameter: 18 cm, Shade diameter: 15 cm",
+              "image":"lamp2_row.png",
+              "web": "http://www.ikea.com",
+              "twitter": "https://twitter.com/rwenderlich",
+              "facebook": "https://www.facebook.com/raywenderlich"
+              },
+              {
+              "name":"STRÅLA",
+              "title": "Pendant Lamp",
+              "location": "",
+              "about": "Height: 38 cm, Base diameter: 18 cm, Shade diameter: 15 cm",
+              "image":"lamp1_row.png",
+              "web": "http://www.ikea.com",
+              "twitter": "http://www.twitter.com/bcbroom",
+              },
+              {
+              "name":"BEKKESTUA",
+              "title": "Bedside Lamp",
+              "location": "",
+              "about": "Height: 38 cm, Base diameter: 18 cm, Shade diameter: 15 cm",
+              "image":"lamp3_row.png",
+              "web": "http://www.ikea.com",
+              "twitter": "https://twitter.com/rwenderlich",
+              "facebook": "https://www.facebook.com/raywenderlich"
+              },
+              {
+              "name":"FJELLSE",
+              "title": "Bedside Lamp",
+              "location": "",
+              "about": "Height: 38 cm, Base diameter: 18 cm, Shade diameter: 15 cm",
+              "image":"lamp4_row.png",
+              "web": "http://www.ikea.com",
+              "twitter": "https://twitter.com/rwenderlich",
+              "facebook": "https://www.facebook.com/raywenderlich"
+              },
+              {
+              "name":"SVELVIK",
+              "title": "Bedside Lamp",
+              "location": "",
+              "about": "Height: 38 cm, Base diameter: 18 cm, Shade diameter: 15 cm",
+              "image":"lamp5_row.png",
+              "web": "http://www.ikea.com",
+              "twitter": "https://twitter.com/rwenderlich",
+              "facebook": "https://www.facebook.com/raywenderlich"
+              },
+              {
+              "name":"TRYSIL",
+              "title": "Bedside Lamp",
+              "location": "",
+              "about": "Height: 38 cm, Base diameter: 18 cm, Shade diameter: 15 cm",
+              "image":"lamp6_row.png",
+              "web": "http://www.ikea.com",
+              "twitter": "https://twitter.com/rwenderlich",
+              "facebook": "https://www.facebook.com/raywenderlich"
+              },
+              {
+              "name":"BRIMNES",
+              "title": "Bedside Lamp",
+              "location": "",
+              "about": "Height: 38 cm, Base diameter: 18 cm, Shade diameter: 15 cm",
+              "image":"lamp7_row.png",
+              "web": "http://www.ikea.com",
+              "twitter": "https://twitter.com/rwenderlich",
+              "facebook": "https://www.facebook.com/raywenderlich"
+              }
+              
+                ]
+}
